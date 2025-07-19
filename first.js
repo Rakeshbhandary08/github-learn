@@ -12,3 +12,5 @@ console.log(upi);
 
 let gitHub="GitHub Learning";
 console.log(gitHub);
+
+let start="gand fati padi hai sabki";
